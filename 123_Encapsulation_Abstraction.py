@@ -37,4 +37,5 @@ db.write("Chiranth", 20)
 # we can only access throug read
 
 db.read("Chiranth")
+db.read("Chiru")
     
