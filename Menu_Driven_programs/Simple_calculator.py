@@ -1,9 +1,8 @@
+# Simple Calculator
+
 def display_menu():
     print("\n****Simple Calculator📱****")
     print("\n1. Add\n2. Subtract\n3. Multiply\n4. Modulus\n5. Quit")
-
-
-
 
 while True:
     print("\n*** Calculator ***")

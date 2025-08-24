@@ -1,3 +1,5 @@
+# Bank_System_Simulation
+
 class Account:
     def __init__(self, id, holder_name):   # Fixed constructor
         self.id = id
@@ -65,8 +67,7 @@ class Bank:
             print(f"\nID: {account.id}\nHolder Name: {account.holder_name}")
             return account
 
-# -------------------------
-# Testing
+
 SBI = Bank("State Bank Of India", "Bangalore")
 
 s1 = SBI.create_account("1", "Chiranth", "Savings")
