@@ -1,0 +1,4 @@
+This is text file created using 'w'
+This is added using 'a' 
+
+Check out 147th program to understand the above lines
