@@ -7,4 +7,9 @@ members.py (function: list_members())
 Import and use both in a main file.
 
 '''
-import library.books
+import library.books as B
+import library.members as M
+
+B.list_books()
+print()
+M.list_members()
